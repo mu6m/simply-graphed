@@ -1,0 +1,15 @@
+.chart-container {
+    .green {
+        stroke: #22970f;
+    }
+    .red {
+        stroke: #b41615;
+    }
+    width: 100%; // Adjust as needed
+    max-width: 5rem; // Adjust as needed
+}
+
+.line {
+    fill: none;
+    stroke-width: 2;
+}
